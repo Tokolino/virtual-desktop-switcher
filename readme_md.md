@@ -28,7 +28,7 @@ A lightweight, always-on-top overlay for Windows 11 that makes switching between
 
 2. **Download the script**
    ```bash
-   git clone https://github.com/yourusername/virtual-desktop-switcher.git
+   git clone https://github.com/Tokolino/virtual-desktop-switcher.git
    cd virtual-desktop-switcher
    ```
 
