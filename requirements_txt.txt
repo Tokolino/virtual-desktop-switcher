@@ -1,0 +1,10 @@
+# No external dependencies required!
+# This project uses only Python standard library:
+# - tkinter (GUI)
+# - ctypes (Windows API calls)
+# - winreg (Windows Registry access)
+# - json (Configuration storage)
+# - os (File operations)
+# - time (Delays)
+
+# All of these are included with Python on Windows.
